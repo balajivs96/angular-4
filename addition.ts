@@ -13,6 +13,7 @@ export class AppComponent
     var aa=+a;
     var bb=+b;
     alert(this.sum= aa+bb); 
+    //{{this.sum= aa+bb}};
     
   }
 }
